@@ -1,16 +1,15 @@
-Poczatek programu
-==========================
->
-> #include <stdio.h> //biblioteka wejscia wyjscia
+## Pierwszy program w jezyku c
 
-> int main()  //glowny program
+```c
+#include <stdio.h> //biblioteka wejscia wyjscia
 
-> {
+int main()  //glowny program
 
->	puts("Pierwszy program\n"); //wyswietlenie na konsole podanego tekstu
+{
 
->	return 0; //zwrocenie wartosci 0
+puts("Pierwszy program\n"); //wyswietlenie na konsole podanego tekstu
 
-> }
+return 0; //zwrocenie wartosci 0
 
-
+}
+```
